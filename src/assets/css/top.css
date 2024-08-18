@@ -1,0 +1,8 @@
+.mainvisual-img{
+    width: 100%;
+    object-fit: contain;
+}
+
+.information-content{
+    display: flex;
+}
