@@ -20,7 +20,7 @@
             </figure>
         </section>
         <section class="logout">
-        <div class="login-content"><a href="../auth/login.php">ログイン</a></div>
+            <div class="login-content"><a href="../auth/login.php">ログイン</a></div>
         </section>
         <!-- インフォメーション -->
         <section class="information">
@@ -58,15 +58,15 @@
                         </div>
                     </div>
                 </div>
-            <div class="access">
-                <div class="access-img">
-                    <img src="../assets/img/info-icon03.svg" alt="">
+                <div class="access">
+                    <div class="access-img">
+                        <img src="../assets/img/info-icon03.svg" alt="">
+                    </div>
+                    <div class="access-text">
+                        埼玉県
+                        南2条西3丁目20
+                    </div>
                 </div>
-                <div class="access-text">
-                    札幌市中央区
-                    南2条西3丁目20
-                </div>
-            </div>
             </div>
         </section>
         <!-- コンテンツ -->
